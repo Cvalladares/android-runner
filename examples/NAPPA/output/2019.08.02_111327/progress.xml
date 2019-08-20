@@ -1,0 +1,115 @@
+<experiment>
+  <configHash>ecf5a9e34c9f52b6940c3e775d9c72b3</configHash>
+  <outputDir>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/output/2019.08.02_111327/</outputDir>
+  <subjects>
+    <subject>
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <aggregated>0</aggregated>
+    </subject>
+  </subjects>
+  <runsToRun>
+    <run runId="3">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="4">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="5">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="6">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="7">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="8">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="9">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="10">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="11">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="12">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="13">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="14">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="15">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="16">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="17">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="18">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="19">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>20</runCount>
+    </run>
+  </runsToRun>
+  <runsDone>
+    <run runId="0">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>1</runCount>
+    </run>
+  <run runId="1">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>3</runCount>
+    </run>
+    </runsDone>
+</experiment>

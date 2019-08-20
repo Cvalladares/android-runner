@@ -1,0 +1,61 @@
+/home/christian/Desktop/AndroidRunner/android-runner/venv/bin/python /home/christian/Desktop/AndroidRunner/android-runner /home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/config.json
+ExperimentFactory: /home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/config.json
+NativeExperiment: Device: huaweinex (ENU7N15C03000145, Android 6.0, API level 23)
+Profilers: Loading
+Python2: before_experiment.py
+NativeExperiment: APK: appteam.nith.hillffair.apk
+Profilers: Setting output
+NativeExperiment: Run 1 of 2
+NativeExperiment: Logcat cleared
+Python2: before_run.py
+Python2: after_launch.py
+Profilers: Start profiling
+Python2: interaction.py
+=INTERACTION=
+ENU7N15C03000145
+MonkeyReplay: monkey_hillfair.txt
+Traceback (most recent call last):
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/Experiment.py", line 60, in start
+    int(current_run['runCount']), None)
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/Experiment.py", line 103, in run
+    self.interaction(device, path, run)
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/Experiment.py", line 131, in interaction
+    self.scripts.run('interaction', device, *args, **kwargs)
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/Scripts.py", line 40, in run
+    script.run(device, *args, **kwargs)
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/Script.py", line 65, in run
+    raise ScriptError(log_message)
+ScriptError: OSError in monkey_hillfair.txt: [Errno 13] Permission denied
+Traceback (most recent call last):
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/Script.py", line 32, in mp_run
+    output = self.execute_script(device, *args, **kwargs)
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/MonkeyReplay.py", line 32, in execute_script
+    cmdp = subprocess.Popen(args, cwd=paths.ROOT_DIR, shell=False, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+  File "/usr/lib/python2.7/subprocess.py", line 394, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1047, in _execute_child
+    raise child_exception
+OSError: [Errno 13] Permission denied
+
+
+NativeExperiment: ScriptError: OSError in monkey_hillfair.txt: [Errno 13] Permission denied
+Traceback (most recent call last):
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/Script.py", line 32, in mp_run
+    output = self.execute_script(device, *args, **kwargs)
+  File "/home/christian/Desktop/AndroidRunner/android-runner/ExperimentRunner/MonkeyReplay.py", line 32, in execute_script
+    cmdp = subprocess.Popen(args, cwd=paths.ROOT_DIR, shell=False, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+  File "/usr/lib/python2.7/subprocess.py", line 394, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1047, in _execute_child
+    raise child_exception
+OSError: [Errno 13] Permission denied
+
+Profilers: Stop profiling
+Profilers: Unloading
+ExperimentRunner.Adb: ENU7N15C03000145: "appteam.nith.hillffair" uninstalled
+Profilers: Start final aggregation
+root: TypeError: 'NoneType' object is not iterable
+root: An error occurred, the experiment has been stopped. To continue, add progress file argument to experiment startup: --progress /home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/output/2019.07.31_132100/progress.xml
+
+Process finished with exit code 0
+

@@ -1,0 +1,49 @@
+<experiment>
+  <configHash>2197bc3537881ee1396119132fa74fc5</configHash>
+  <outputDir>/home/christian/Desktop/AndroidRunner/android-runner/examples/batterystats/output/2019.07.31_100526/</outputDir>
+  <subjects>
+    <subject>
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.androidrunner.apk</path>
+      <aggregated>0</aggregated>
+    </subject>
+    <subject>
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.blackscreen.apk</path>
+      <aggregated>0</aggregated>
+    </subject>
+  </subjects>
+  <runsToRun>
+    <run runId="0">
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.androidrunner.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.androidrunner.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.androidrunner.apk</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="3">
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.blackscreen.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="4">
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.blackscreen.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="5">
+      <device>huaweinex</device>
+      <path>android-runner/example/batterystats/test.blackscreen.apk</path>
+      <runCount>3</runCount>
+    </run>
+  </runsToRun>
+  <runsDone/>
+</experiment>

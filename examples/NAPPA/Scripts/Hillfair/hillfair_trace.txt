@@ -1,0 +1,21 @@
+{"type": "nop", "pause": 5}
+{"type": "touch", "x": 376, "y": 1133, "duration": .075, "pause": 5.0 }
+{"type": "touch", "x": 698, "y": 646,  "duration": .075, "pause": 5.0 }
+{"type": "touch", "x": 112, "y": 229,  "duration": 0.0, "pause": 5 }
+{"type": "touch", "x": 754, "y": 1269, "duration": .075, "pause": 5.0 }
+{"type": "touch", "x": 112, "y": 229,  "duration": 0.0, "pause": 5.0 }
+{"type": "drag", "points": [{"x": 268, "y": 1863 }, {"x": 268, "y": 1099 } ], "duration": 1, "pause": 5 }
+{"type": "touch", "x": 750 , "y": 2075, "duration": .075, "pause": 5.0}
+{"type": "touch", "x": 112,  "y": 229,  "duration": 0.0, "pause": 5.0}
+{"type": "touch", "x": 112,  "y": 229,  "duration": 0.0, "pause": 5.0}
+{"type": "touch", "x": 1095, "y": 1127, "duration": .075, "pause": 5.0}
+{"type": "touch", "x": 693 , "y": 1056, "duration": .075, "pause": 5.0}
+{"type": "touch", "x": 112,  "y": 229,  "duration": 0.0, "pause": 5.0}
+{"type": "touch", "x": 670 , "y": 1560, "duration": .075, "pause": 5.0}
+{"type": "drag", "points": [{"x": 891, "y": 2047 }, {"x": 645, "y": 596 } ], "duration": 1, "pause": 5 }
+{"type": "touch", "x": 112, "y": 229,   "duration": 0.0, "pause": 5.0 }
+{"type": "touch", "x": 112, "y": 229,   "duration": 0.0, "pause": 5.0 }
+{"type": "touch",  "x": 333, "y": 1687, "duration": .075, "pause": 5.0 }
+{"type": "drag", "points": [{"x": 758, "y": 2207 }, {"x": 617, "y": 478 } ], "duration": 1, "pause": 5 }
+{"type": "touch",  "x": 112  , "y": 229,  "duration": 0.0, "pause": 5.0}
+

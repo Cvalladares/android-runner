@@ -1,0 +1,578 @@
+--------- beginning of main
+07-31 14:17:53.387 28469 28469 W System  : ClassLoader referenced unknown path: /system/app/UserDictionaryProvider/lib/arm64
+--------- beginning of system
+07-31 14:17:53.405   917 25630 I ActivityManager: Start proc 28489:com.google.android.partnersetup/u0a18 for broadcast com.google.android.partnersetup/.RlzPingBroadcastReceiver
+07-31 14:17:53.444 28489 28489 W System  : ClassLoader referenced unknown path: /system/priv-app/GooglePartnerSetup/lib/arm64
+07-31 14:17:53.474   917  3372 I ActivityManager: Start proc 28508:com.android.musicfx/u0a21 for broadcast com.android.musicfx/.Compatibility$Receiver
+07-31 14:17:53.505 28508 28508 W System  : ClassLoader referenced unknown path: /system/priv-app/MusicFX/lib/arm64
+07-31 14:17:53.522   917  5087 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:53.547  3928  3928 D ChimeraCfgMgr: Loading module com.google.android.gms.games from APK com.google.android.play.games
+07-31 14:17:53.547  3928  3928 D ChimeraModuleLdr: Module APK com.google.android.play.games already loaded
+07-31 14:17:53.557  3928  3928 D ChimeraCfgMgr: Loading module com.google.android.gms.games from APK com.google.android.play.games
+07-31 14:17:53.557  3928  3928 D ChimeraModuleLdr: Module APK com.google.android.play.games already loaded
+07-31 14:17:53.559  3928  3928 D ChimeraCfgMgr: Loading module com.google.android.gms.vision from APK com.google.android.gms
+07-31 14:17:53.562  3928 28522 D PackageBroadcastService: Received broadcast action=android.intent.action.PACKAGE_ADDED and uri=appteam.nith.hillffair
+07-31 14:17:53.576   917 11453 I ActivityManager: Start proc 28526:com.google.android.gms.wearable/u0a12 for service com.google.android.gms/.wearable.service.WearableControlService
+07-31 14:17:53.606   917  5087 I ActivityManager: Start proc 28538:com.google.android.googlequicksearchbox:search/u0a29 for broadcast com.google.android.googlequicksearchbox/com.google.android.search.core.icingsync.IcingCorporaChangedReceiver
+07-31 14:17:53.615  3593  3593 I ConfigService: onCreate
+07-31 14:17:53.618  3928  3928 I ConfigFetchService: onStartCommand Intent { act=android.intent.action.PACKAGE_ADDED dat=package:appteam.nith.hillffair cmp=com.google.android.gms/.config.ConfigFetchService (has extras) }
+07-31 14:17:53.631  3928  3928 I ConfigFetchService: launchTask
+07-31 14:17:53.656  3928  3928 I ConfigFetchService: service connected
+07-31 14:17:53.661  3928  3928 D ConfigFetchService: ConfigApi connection successful.
+07-31 14:17:53.663  3928 28556 I PeopleContactsSync: CP2 sync disabled
+07-31 14:17:53.675 28526 28526 W System  : ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/arm64
+07-31 14:17:53.692 28526 28526 I MultiDex: VM with version 2.1.0 has multidex support
+07-31 14:17:53.692 28526 28526 I MultiDex: install
+07-31 14:17:53.692 28526 28526 I MultiDex: VM has multidex support, MultiDex support library is disabled.
+07-31 14:17:53.700  3928 28555 V ConfigFetchTask: ConfigFetchTask getDeviceDataVersionInfo(): ABFEt1XVRwAwEb8F_OzUSb1rDNk2ztGfarcF45qD5Rb1EDi-a_ltjGKOXZT58yl_cRrGJTOrntQMm1w8twxXMcEYnkPPoLiZS6IYZRln0fedyK6oH4wKJ8rf24sQUY5JIvH-nV9ISzADlkugJ692NO8K1idznrQPe2VO0eUDsJs9A1-80WB3veQn3MYyu-J7HIzyWp3XDyUDbd4v3gV1uvOA2F8rGZHxs93BKVQido9CLkeO4lAxRwY
+07-31 14:17:53.702 28469 28487 I ContactLocale: AddressBook Labels [en-US;es-US]: [, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, Α, Β, Γ, Δ, Ε, Ζ, Η, Θ, Ι, Κ, Λ, Μ, Ν, Ξ, Ο, Π, Ρ, Σ, Τ, Υ, Φ, Χ, Ψ, Ω, , А, Б, В, Г, Д, Ђ, Е, Є, Ж, З, И, І, Й, Ј, К, Л, Љ, М, Н, Њ, О, П, Р, С, Т, Ћ, У, Ф, Х, Ц, Ч, Џ, Ш, Щ, Ю, Я, , א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת, , ا, ب, ت, ث, ج, ح, خ, د, ذ, ر, ز, س, ش, ص, ض, ط, ظ, ع, غ, ف, ق, ك, ل, م, ن, ه, و, ي, , ก, ข, ฃ, ค, ฅ, ฆ, ง, จ, ฉ, ช, ซ, ฌ, ญ, ฎ, ฏ, ฐ, ฑ, ฒ, ณ, ด, ต, ถ, ท, ธ, น, บ, ป, ผ, ฝ, พ, ฟ, ภ, ม, ย, ร, ฤ, ล, ฦ, ว, ศ, ษ, ส, ห, ฬ, อ, ฮ, , ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅊ, ㅋ, ㅌ, ㅍ, ㅎ, , あ, か, さ, た, な, は, ま, や, ら, わ, #, ]
+07-31 14:17:53.742  3928 28555 I GoogleURLConnFactory: Using platform SSLCertificateSocketFactory
+07-31 14:17:53.806 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:17:53.806 28526 28526 V JNIHelp : Registering com/google/android/gms/org/conscrypt/NativeCrypto's 240 native methods...
+07-31 14:17:53.852   917   928 I ActivityManager: Start proc 28563:com.google.android.apps.docs/u0a43 for broadcast com.google.android.apps.docs/.receivers.AppPackageAddRemoveReceiver
+07-31 14:17:53.900 28526 28526 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+07-31 14:17:53.910 28563 28563 W System  : ClassLoader referenced unknown path: /system/app/Drive/lib/arm64
+07-31 14:17:54.036 28526 28576 D NativeLibraryUtils: Install completed successfully. count=17 extracted=0
+07-31 14:17:54.132   917 25630 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.145 28538 28583 E linker  : readlink('/proc/self/fd/23') failed: Permission denied [fd=23]
+07-31 14:17:54.145 28538 28583 E linker  : warning: unable to get realpath for the library "/data/data/com.google.android.googlequicksearchbox/files/extradex_jars/verified/startup/startup-1.dex". Will use given name.
+07-31 14:17:54.181 28538 28562 I UpdateIcingCorporaServi: Updating corpora: APPS=appteam.nith.hillffair, CONTACTS=MAYBE
+07-31 14:17:54.474   917  3440 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.544 28563 28579 I GAv4    : Google Analytics 7.8.95 is starting up. To enable debug logging on a device run:
+07-31 14:17:54.544 28563 28579 I GAv4    :   adb shell setprop log.tag.GAv4 DEBUG
+07-31 14:17:54.544 28563 28579 I GAv4    :   adb logcat -s GAv4
+07-31 14:17:54.571 28538 28562 I UpdateIcingCorporaServi: UpdateCorporaTask done [took 390 ms] updated apps [took 390 ms] 
+07-31 14:17:54.593 28563 28579 W GAv4    : AnalyticsReceiver is not registered or is disabled. Register the receiver for reliable dispatching on non-Google Play devices. See http://goo.gl/8Rd3yj for instructions.
+07-31 14:17:54.602 28563 28579 W GAv4    : CampaignTrackingReceiver is not registered, not exported or is disabled. Installation campaign tracking is not possible. See http://goo.gl/8Rd3yj for instructions.
+07-31 14:17:54.635 28563 28579 W AnalyticsTrackerProxyImpl: Analytics setup for ID UA-21125203-2, app name Drive, version 2.3.327.05.46
+07-31 14:17:54.649 28563 28597 W GAv4    : AnalyticsService not registered in the app manifest. Hits might not be delivered reliably. See http://goo.gl/8Rd3yj for instructions.
+07-31 14:17:54.660  3928 28555 W ConfigFetchTask: bad response from server: 403 Forbidden
+07-31 14:17:54.660  3928  3928 I ConfigFetchService: fetch service done; releasing wakelock
+07-31 14:17:54.662  3928  3928 I ConfigFetchService: stopping self
+07-31 14:17:54.740   917   928 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.752   917 25630 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.757  3593  5355 D GCM     : GcmService start Intent { act=com.google.android.gms.INITIALIZE flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.gcm.GcmService } com.google.android.gms.INITIALIZE
+07-31 14:17:54.760  3593  3593 D AuthorizationBluetoothService: Received GmsCore event: Intent { act=com.google.android.gms.INITIALIZE flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.auth.be.proximity.authorization.bt.AuthorizationBluetoothService$AutoStarter }.
+07-31 14:17:54.769  3593  3593 V GLSActivity: AuthDelegateWrapperCreated with selected intent: Intent { cmp=com.google.android.gms/.auth.DefaultAuthDelegateService }
+07-31 14:17:54.771  3593  3593 V GLSActivity: AuthDelegateWrapperCreated with selected intent: Intent { cmp=com.google.android.gms/.auth.DefaultAuthDelegateService }
+07-31 14:17:54.771   917 11453 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.772   917  3128 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.773  3928  3928 V GmsCoreStatsServiceLauncher: Received broadcast intent Intent { act=com.google.android.gms.INITIALIZE flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.common.stats.GmsCoreStatsServiceLauncher }
+07-31 14:17:54.773   917  8921 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.787 28526 28526 D WearableService: callingUid 10012, callindPid: 28526
+07-31 14:17:54.795   917   927 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.802  3928 28604 D LocationInitializer: Restart initialization of location
+07-31 14:17:54.806 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:17:54.809   917  3132 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.810  3696  4297 E MDM     : [109] b.run: Couldn't connect to Google API client: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null}
+07-31 14:17:54.825  3696  3930 W GCoreFlp: No location to return for getLastLocation()
+07-31 14:17:54.825  3593 28605 W FusedLocationProvider: location=null
+07-31 14:17:54.830   917   927 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:17:54.858 28563 28600 E linker  : readlink('/proc/self/fd/25') failed: Permission denied [fd=25]
+07-31 14:17:54.858 28563 28600 E linker  : warning: unable to get realpath for the library "/system/framework/oat/arm64/com.android.location.provider.odex". Will use given name.
+07-31 14:17:54.859 28563 28600 E linker  : readlink('/proc/self/fd/25') failed: Permission denied [fd=25]
+07-31 14:17:54.859 28563 28600 E linker  : warning: unable to get realpath for the library "/system/framework/oat/arm64/com.android.media.remotedisplay.odex". Will use given name.
+07-31 14:17:54.862 28563 28600 E linker  : readlink('/proc/self/fd/25') failed: Permission denied [fd=25]
+07-31 14:17:54.863 28563 28600 E linker  : warning: unable to get realpath for the library "/system/priv-app/PrebuiltGmsCore/oat/arm64/PrebuiltGmsCore.odex". Will use given name.
+07-31 14:17:54.865 28563 28600 W System  : ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/arm64
+07-31 14:17:54.925 28563 28600 E linker  : readlink('/proc/self/fd/26') failed: Permission denied [fd=26]
+07-31 14:17:54.925 28563 28600 E linker  : warning: unable to get realpath for the library "/system/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/arm64-v8a/libgmscore.so". Will use given name.
+07-31 14:17:54.939 28563 28600 E linker  : readlink('/proc/self/fd/26') failed: Permission denied [fd=26]
+07-31 14:17:54.939 28563 28600 E linker  : warning: unable to get realpath for the library "/system/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/arm64-v8a/libconscrypt_gmscore_jni.so". Will use given name.
+07-31 14:17:54.943 28563 28600 V JNIHelp : Registering com/google/android/gms/org/conscrypt/NativeCrypto's 240 native methods...
+07-31 14:17:54.970 28563 28600 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+07-31 14:17:55.575  3928  4806 I Icing   : Indexing 02D705D1E84E9DE0FD3809401FB808888ED91E41 from com.google.android.googlequicksearchbox
+07-31 14:17:55.673  3928  4806 I Icing   : Indexing done 02D705D1E84E9DE0FD3809401FB808888ED91E41
+07-31 14:17:55.807 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:17:56.808 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 5
+07-31 14:17:59.668  3593  3593 I ConfigService: onDestroy
+07-31 14:18:02.980   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86602771, fe80::3ad8:2fff:fe25:f08b, [38D82F25F08B], RTM_NEWNEIGH, NUD_STALE}
+07-31 14:18:08.021   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86607812, 192.168.2.254, [38D82F25F08B], RTM_NEWNEIGH, NUD_STALE}
+07-31 14:18:08.558   917  3440 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:18:08.562   917  3372 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:18:08.605   917   927 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:18:08.642   917  3570 I sensors : batch
+07-31 14:18:08.643   917  3570 I sensors : activate
+07-31 14:18:08.651   917  2857 I hubconnection: sensorhub said: 'batch 1 flags:0, sampling_rate_Hz:50.00, max_report_latency_us:0'
+07-31 14:18:08.653   917  2857 I hubconnection: sensorhub said: 'activate 1 enable:1'
+07-31 14:18:08.683   917  8921 I AccountManagerService: getTypesVisibleToCaller: isPermitted? true
+07-31 14:18:08.684 27217 27250 D Finsky  : [784] AppStatesReplicator.handleContentSyncResponse: Completed 0 account content syncs with 0 successful.
+07-31 14:18:08.685 27217 27217 D Finsky  : [1] 5.onFinished: Installation state replication succeeded.
+07-31 14:18:12.148   917   927 I sensors : activate
+07-31 14:18:12.159   917  2857 I hubconnection: sensorhub said: 'activate 1 enable:0'
+07-31 14:18:13.540   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86613332, fe80::3ad8:2fff:fe25:f08b, [38D82F25F08B], RTM_NEWNEIGH, NUD_PROBE}
+07-31 14:18:13.550   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86613341, 192.168.2.254, [38D82F25F08B], RTM_NEWNEIGH, NUD_PROBE}
+07-31 14:18:21.809 28147 28147 I Atfwd_Sendcmd: AtCmdFwd service not ready - Exhausted retry attempts - :6
+07-31 14:18:21.810 28147 28147 I Atfwd_Daemon: result : -1 	 ,Init step :2 	 ,qmiErrorCode: 0
+07-31 14:18:21.818   917  2971 I PowerManagerService: Waking up from dozing (uid 1000)...
+07-31 14:18:21.821   917   917 V KeyguardServiceDelegate: onStartedWakingUp()
+07-31 14:18:21.833   917   917 I sensors : batch
+07-31 14:18:21.833   917   917 I sensors : activate
+07-31 14:18:21.834   513  2998 D audio_hw_primary: adev_set_parameters: enter: screen_state=on
+07-31 14:18:21.842 28619 28619 W mdss_fb0: type=1400 audit(0.0:755): avc: granted { setsched } for scontext=u:r:kernel:s0 tcontext=u:r:kernel:s0 tclass=process
+07-31 14:18:21.852   917   937 I DisplayPowerController: Blocking screen on until initial contents have been drawn.
+07-31 14:18:21.853   917   937 V KeyguardServiceDelegate: onScreenTurnedOn(showListener = com.android.server.policy.PhoneWindowManager$2@32d97c)
+07-31 14:18:21.853   917   937 I sensors : batch
+07-31 14:18:21.853   917   937 I sensors : activate
+07-31 14:18:21.855   917   935 I DisplayManagerService: Display device changed state: "Built-in Screen", ON
+07-31 14:18:21.855   381   381 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7fae343c00
+07-31 14:18:21.855   381   381 D qdhwcomposer: hwc_setPowerMode: Setting mode 2 on display: 0
+07-31 14:18:21.856   917  2857 I hubconnection: sensorhub said: 'batch 31 flags:0, sampling_rate_Hz:15.00, max_report_latency_us:0'
+07-31 14:18:21.857   917  2990 E native  : do suspend false
+07-31 14:18:21.858   917  2857 I hubconnection: sensorhub said: 'activate 31 enable:1'
+07-31 14:18:21.859   917 25630 V KeyguardServiceDelegate: **** SHOWN CALLED ****
+07-31 14:18:21.862   917  2857 I hubconnection: sensorhub said: 'batch 7 flags:0, sampling_rate_Hz:4.00, max_report_latency_us:0'
+07-31 14:18:21.863  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_SET_TECH_CFG_EVT; status=0x0
+07-31 14:18:21.863   917  2857 I hubconnection: sensorhub said: 'activate 7 enable:1'
+07-31 14:18:21.863  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_SET_PROTO_CFG_EVT; status=0x0
+07-31 14:18:21.864  3492  6196 D BrcmNfcJni: RoutingManager::commitRouting
+07-31 14:18:21.865  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_UPDATED_EVT
+07-31 14:18:21.873   917  2990 D WifiConfigStore: No blacklist allowed without epno enabled
+07-31 14:18:21.873  3509  4581 D ScreenStateRecorder : ScreenStateRecorderHandler, handleMessage msg.what = 1
+07-31 14:18:21.873  3509  4581 D         : oem_qmi_lib:come into oem_qmi_common_stream_from_modem_len --->modem 
+07-31 14:18:21.873  3509  4581 D         : oem_qmi_lib:oem_qmi_cmd: Send to server  passed!!
+07-31 14:18:21.874   526  1144 D         : oem-qmi: Connection accepted
+07-31 14:18:21.874   526  1144 D         : oem-qmi: Waiting to accept connection
+07-31 14:18:21.877  3509  4581 D         : oem_qmi_lib:output 0
+07-31 14:18:21.877  3509  4581 D         : oem_qmi_lib:rapi_event_type=10057, qmi_ret=0, return_status=1. 
+07-31 14:18:21.891  3091  3091 W PathParser: Points are too far apart 4.030360828967057
+07-31 14:18:21.891  3091  3091 W PathParser: Points are too far apart 4.030360538880159
+07-31 14:18:21.899  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [01000000040400001c000000514f454d484f4f4b132009000c0000000500000057000000c30b0000]
+07-31 14:18:21.899  5024  5038 D QcrilMsgTunnelSocket: Rcvd UNSOL response with 36 bytes data for SUB0
+07-31 14:18:21.899  5024  5038 D QcrilMsgTunnelSocket: RF_Band_Info recv 
+07-31 14:18:21.899  5024  5038 D QcrilMsgTunnelSocket: Broadcaseting RadioInfo : 5ActiveBand : 87ActiveChannel : 3011
+07-31 14:18:21.900  5024  5038 D QcrilMsgTunnelSocket: Broadcasting intent broadcastRfBandInfo
+07-31 14:18:21.902  4988  5037 E SarMIPIManager: handleMIPI:not match,use the default MIPI:454
+07-31 14:18:21.902  4988  5037 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq: clkrate : 908000000
+07-31 14:18:21.902  4988  5037 V QC_RIL_OEM_HOOK: sendRilOemHookMsgAsync: Outgoing Data is 514f454d484f4f4b142009000400000000fb1e36
+07-31 14:18:21.903  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 3
+07-31 14:18:21.903  5024  5024 D QcrilMsgTunnelSocket: [1170] > OEM_HOOK_RAW[514f454d484f4f4b142009000400000000fb1e36]
+07-31 14:18:21.905  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [000000009204000000000000ffffffff]
+07-31 14:18:21.905  5024  5038 D QcrilMsgTunnelSocket: Rcvd SOLICITED response with 12 bytes data for SUB0
+07-31 14:18:21.906  5024  5038 D QcrilMsgTunnelSocket: [1170] < OEM_HOOK_RAW [null]
+07-31 14:18:21.906  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 4
+07-31 14:18:21.907  4988  5006 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq DONE!
+07-31 14:18:21.931   917   931 I sensors : flush
+07-31 14:18:21.931   917   937 I DisplayPowerController: Unblocked screen on after 79 ms
+07-31 14:18:21.935   917   937 V KeyguardServiceDelegate: onScreenTurnedOn()
+07-31 14:18:21.936   917   937 I DreamManagerService: Gently waking up from dream.
+07-31 14:18:21.937   917  6624 I DreamManagerService: Leaving dreamland.
+07-31 14:18:21.937   917   932 I DreamController: Stopping dream: name=ComponentInfo{com.android.systemui/com.android.systemui.doze.DozeService}, isTest=false, canDoze=true, userId=0
+07-31 14:18:21.938   917  3440 I sensors : activate
+07-31 14:18:21.938   917  2857 I hubconnection: sensorhub said: 'flush 31'
+07-31 14:18:21.939   917  2857 I hubconnection: saw sensor 31 flushed
+07-31 14:18:21.945   917  2857 I hubconnection: sensorhub said: 'activate 21 enable:0'
+07-31 14:18:21.960  3091  3091 W PathParser: Points are too far apart 4.030360828967057
+07-31 14:18:21.960  3091  3091 W PathParser: Points are too far apart 4.030360538880159
+07-31 14:18:22.032 28650 28650 W irq/504-synapti: type=1400 audit(0.0:756): avc: granted { setsched } for scontext=u:r:kernel:s0 tcontext=u:r:kernel:s0 tclass=process
+07-31 14:18:22.038   381   480 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 1
+07-31 14:18:22.041   381   381 D qdhwcomposer: hwc_setPowerMode: Done setting mode 2 on display 0
+07-31 14:18:22.042   917  3059 D SurfaceControl: Excessive delay in setPowerMode(): 187ms
+07-31 14:18:23.684  3091  3091 D PhoneStatusBar: disable: < expand ICONS alerts SYSTEM_INFO back HOME RECENT clock SEARCH quick_settings >
+07-31 14:18:23.718   513  2980 D audio_hw_primary: out_set_parameters: enter: usecase(1: low-latency-playback) kvpairs: routing=2
+07-31 14:18:23.722  3091  3091 D PhoneStatusBar: disable: < expand icons* alerts system_info* back HOME RECENT clock SEARCH quick_settings >
+07-31 14:18:23.733   513  2980 D audio_hw_primary: select_devices: out_snd_device(2: speaker) in_snd_device(0: none)
+07-31 14:18:23.733   513  2980 D msm8974_platform: platform_send_audio_calibration: sending audio calibration for snd_device(2) acdb_id(15)
+07-31 14:18:23.733   513  2980 I soundtrigger: audio_extn_sound_trigger_update_device_status: device 0x2 of type 0 for Event 1
+07-31 14:18:23.747   513  2980 D audio_hw_primary: enable_snd_device: snd_device(2: speaker)
+07-31 14:18:23.749  3091  3091 D PhoneStatusBar: disable: < expand icons alerts system_info back home* recent* clock search* quick_settings >
+07-31 14:18:23.751   513  2980 D audio_hw_primary: enable_audio_route: apply and update mixer path: low-latency-playback speaker
+07-31 14:18:23.758  3696  3696 V UserPresentBroadcastReceiver: Received Intent { act=android.intent.action.USER_PRESENT flg=0x24000010 cmp=com.google.android.gms/.auth.trustagent.UserPresentBroadcastReceiver }.
+07-31 14:18:23.768  3396  3396 I Keyboard.Facilitator: onFinishInput()
+07-31 14:18:23.803  3492  3694 E BrcmNfcJni: nfaConnectionCallback: unknown event ????
+07-31 14:18:23.803  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_SET_TECH_CFG_EVT; status=0x0
+07-31 14:18:23.804  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_SET_PROTO_CFG_EVT; status=0x0
+07-31 14:18:23.804  3492  3687 D BrcmNfcJni: RoutingManager::commitRouting
+07-31 14:18:23.804  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_UPDATED_EVT
+07-31 14:18:24.482   513  2980 D audio_hw_primary: disable_audio_route: reset and update mixer path: low-latency-playback speaker
+07-31 14:18:24.483   513  2980 D audio_hw_primary: disable_snd_device: snd_device(2: speaker)
+07-31 14:18:24.492   513  2980 I soundtrigger: audio_extn_sound_trigger_update_device_status: device 0x2 of type 0 for Event 0
+07-31 14:18:24.884   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:18:26.941   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86626732, 192.168.2.254, [38D82F25F08B], RTM_NEWNEIGH, NUD_STALE}
+07-31 14:18:27.933   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:18:29.181   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86628972, fe80::3ad8:2fff:fe25:f08b, [38D82F25F08B], RTM_NEWNEIGH, NUD_STALE}
+07-31 14:18:31.812 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:32.814 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:33.816 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:34.023   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:18:34.818 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:35.820 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:36.822 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 1
+07-31 14:18:41.824 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:42.826 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:43.158   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:18:43.829 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:44.831 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:45.833 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:46.835 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 2
+07-31 14:18:49.251   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:18:55.346   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:18:56.837 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:57.840 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:58.842 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:18:59.843 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:00.845 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:01.846 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 3
+07-31 14:19:04.481   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:19:07.533   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:19:16.847 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:17.850 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:18.852 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:19.854 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:20.856 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:21.858 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 4
+07-31 14:19:23.769  3396 26973 I Keyboard.Facilitator.LanguageModelFlusher: run()
+07-31 14:19:23.770  3396 26973 I Keyboard.Facilitator: flushDynamicLanguageModels()
+07-31 14:19:23.800  3593  3593 I ConfigService: onCreate
+07-31 14:19:28.833  3593  3593 I ConfigService: onDestroy
+07-31 14:19:38.354  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [010000000404000011000000514f454d484f4f4bef0308000100000003]
+07-31 14:19:38.354  5024  5038 D QcrilMsgTunnelSocket: Rcvd UNSOL response with 28 bytes data for SUB0
+07-31 14:19:38.355  5024  5038 D QcrilMsgTunnelSocket: Response ID 525295 is not served in this process.
+07-31 14:19:38.355  5024  5038 D QcrilMsgTunnelSocket: To broadcast an Intent via the notifier to external apps
+07-31 14:19:38.355  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 0
+07-31 14:19:38.356  5024  5024 D QcrilMsgTunnelIfaceManager: Broadcasting intent ACTION_UNSOL_RESPONSE_OEM_HOOK_RAW
+07-31 14:19:38.358  4988  4988 D QC_RIL_OEM_HOOK: Received Broadcast Intent ACTION_UNSOL_RESPONSE_OEM_HOOK_RAW
+07-31 14:19:38.361  4988  4988 D QC_RIL_OEM_HOOK: Oem ID in QCRILHOOK UNSOL RESP is QOEMHOOK
+07-31 14:19:38.361  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [01000000040400001c000000514f454d484f4f4b132009000c00000005000000500000008d290000]
+07-31 14:19:38.361  5024  5038 D QcrilMsgTunnelSocket: Rcvd UNSOL response with 36 bytes data for SUB0
+07-31 14:19:38.362  5024  5038 D QcrilMsgTunnelSocket: RF_Band_Info recv 
+07-31 14:19:38.362  5024  5038 D QcrilMsgTunnelSocket: Broadcaseting RadioInfo : 5ActiveBand : 80ActiveChannel : 10637
+07-31 14:19:38.362  5024  5038 D QcrilMsgTunnelSocket: Broadcasting intent broadcastRfBandInfo
+07-31 14:19:38.366  4988  5037 E SarMIPIManager: handleMIPI:not match,use the default MIPI:454
+07-31 14:19:38.366  4988  5037 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq: clkrate : 908000000
+07-31 14:19:38.366  4988  5037 V QC_RIL_OEM_HOOK: sendRilOemHookMsgAsync: Outgoing Data is 514f454d484f4f4b142009000400000000fb1e36
+07-31 14:19:38.367  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 3
+07-31 14:19:38.367  5024  5024 D QcrilMsgTunnelSocket: [1171] > OEM_HOOK_RAW[514f454d484f4f4b142009000400000000fb1e36]
+07-31 14:19:38.371  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [000000009304000000000000ffffffff]
+07-31 14:19:38.371  5024  5038 D QcrilMsgTunnelSocket: Rcvd SOLICITED response with 12 bytes data for SUB0
+07-31 14:19:38.371  5024  5038 D QcrilMsgTunnelSocket: [1171] < OEM_HOOK_RAW [null]
+07-31 14:19:38.372  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 4
+07-31 14:19:38.373  4988  5006 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq DONE!
+07-31 14:19:41.860 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:42.862 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:43.864 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:44.866 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:45.868 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:19:46.868 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 5
+07-31 14:19:47.113   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:19:50.579 28691 28691 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+07-31 14:19:50.586 28691 28691 D AndroidRuntime: CheckJNI is OFF
+07-31 14:19:50.613 28691 28691 D ICU     : No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+07-31 14:19:50.642 28691 28691 I Radio-JNI: register_android_hardware_Radio DONE
+07-31 14:19:50.659 28691 28691 D AndroidRuntime: Calling main entry com.android.commands.monkey.Monkey
+07-31 14:19:50.676   917   930 W BroadcastQueue: Skipping deliver [background] BroadcastRecord{96aca42 u-1 android.net.conn.CONNECTIVITY_CHANGE} to ReceiverList{d246a53 28691 (unknown name)/2000/u-1 remote:b477524}: process crashing
+07-31 14:19:50.684   917  3132 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=appteam.nith.hillffair/.activities.SplashActivity} from uid 2000 on display 0
+07-31 14:19:50.819   917  3372 I ActivityManager: Start proc 28701:appteam.nith.hillffair/u0a135 for activity appteam.nith.hillffair/.activities.SplashActivity
+07-31 14:19:50.821 28701 28701 I art     : Late-enabling -Xcheck:jni
+07-31 14:19:50.829 28691 28691 I art     : System.exit called, status: 0
+07-31 14:19:50.829 28691 28691 I AndroidRuntime: VM exiting with result code 0.
+07-31 14:19:50.869 28701 28701 W System  : ClassLoader referenced unknown path: /data/app/appteam.nith.hillffair-1/lib/arm64
+07-31 14:19:50.884   917   926 I art     : Background partial concurrent mark sweep GC freed 58857(3MB) AllocSpace objects, 10(216KB) LOS objects, 31% free, 34MB/50MB, paused 916us total 167.720ms
+07-31 14:19:50.885 28701 28701 W OneSignal: GCM Library detected, please upgrade to Firebase FCM library as GCM is deprecated!
+07-31 14:19:50.920 28701 28701 W art     : Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+07-31 14:19:50.932 28701 28701 W System.err: java.io.FileNotFoundException: /storage/emulated/0/Download/config.txt: open failed: ENOENT (No such file or directory)
+07-31 14:19:50.932 28701 28701 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:452)
+07-31 14:19:50.932 28701 28701 W System.err: 	at java.io.FileInputStream.<init>(FileInputStream.java:76)
+07-31 14:19:50.932 28701 28701 W System.err: 	at nl.vu.cs.s2group.PrefetchingLib.init(PrefetchingLib.java:134)
+07-31 14:19:50.932 28701 28701 W System.err: 	at appteam.nith.hillffair.activities.SplashActivity.onCreate(SplashActivity.java:24)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.app.Activity.performCreate(Activity.java:6237)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1107)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2369)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2476)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.app.ActivityThread.-wrap11(ActivityThread.java)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1344)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.os.Looper.loop(Looper.java:148)
+07-31 14:19:50.932 28701 28701 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+07-31 14:19:50.932 28701 28701 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+07-31 14:19:50.932 28701 28701 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+07-31 14:19:50.932 28701 28701 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+07-31 14:19:50.933 28701 28701 W System.err: Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+07-31 14:19:50.933 28701 28701 W System.err: 	at libcore.io.Posix.open(Native Method)
+07-31 14:19:50.933 28701 28701 W System.err: 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:186)
+07-31 14:19:50.933 28701 28701 W System.err: 	at libcore.io.IoBridge.open(IoBridge.java:438)
+07-31 14:19:50.933 28701 28701 W System.err: 	... 15 more
+07-31 14:19:50.933 28701 28701 E PREFSTRATEGYNUM: 3
+07-31 14:19:50.936 28701 28701 W PrefetchingLib: Startup-time: 3 ms
+07-31 14:19:50.945 28701 28701 I art     : Rejecting re-init on previously-failed class java.lang.Class<androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerWrapper>
+07-31 14:19:50.945 28701 28701 I art     : Rejecting re-init on previously-failed class java.lang.Class<androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerWrapper>
+07-31 14:19:50.974 28701 28701 D LARDataUpdate: node appteam.nith.hillffair.activities.SplashActivity added to nodelist
+07-31 14:19:50.974 28701 28701 D LARDataUpdate:  Pagerank: 0.25 HITS-Authority: 1.0 HITS-Hub: 1.0 SALSA-Authority: 1.0 SALSA-Hub: 1.0
+07-31 14:19:50.974 28701 28701 I PREF_LIB: loading data for appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:50.978 28701 28701 I PREF_LIB: loading extras for appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:50.979 28701 28701 W SHOULD_PREFETCH: false
+07-31 14:19:50.979 28701 28701 E STATS   : Number of requests not prefetched: 0
+07-31 14:19:50.979 28701 28701 E STATS   : Number of requests prefetched: 0
+07-31 14:19:50.979 28701 28701 E STATS   : Time saved until now: 0.0
+07-31 14:19:50.990 28701 28734 D OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+07-31 14:19:51.033 28701 28734 I Adreno  : QUALCOMM build                   : fcf4852, I1af360237c
+07-31 14:19:51.033 28701 28734 I Adreno  : Build Date                       : 09/23/15
+07-31 14:19:51.033 28701 28734 I Adreno  : OpenGL ES Shader Compiler Version: XE031.05.13.02
+07-31 14:19:51.033 28701 28734 I Adreno  : Local Branch                     : mybranch14465806
+07-31 14:19:51.033 28701 28734 I Adreno  : Remote Branch                    : quic/LA.BF64.1.2.9_v2
+07-31 14:19:51.033 28701 28734 I Adreno  : Remote Branch                    : NONE
+07-31 14:19:51.033 28701 28734 I Adreno  : Reconstruct Branch               : NOTHING
+07-31 14:19:51.045 28701 28724 W PrefetchingLib: Extended Startup-time: 112 ms
+07-31 14:19:51.053 28701 28734 I OpenGLRenderer: Initialized EGL, version 1.4
+07-31 14:19:51.068 28701 28724 I pref-lib::updActMap: appteam.nith.hillffair.activities.SplashActivity: 1
+07-31 14:19:51.202   917   935 I ActivityManager: Displayed appteam.nith.hillffair/.activities.SplashActivity: +397ms
+07-31 14:19:51.205  3396  3396 I Keyboard.Facilitator: onFinishInput()
+07-31 14:19:51.209 28701 28701 D UPDATE SESSION: source = appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:51.209 28701 28701 D PREFSTRAT2: appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:51.209 28701 28701 D UPDATED LAST N SESSION : source = appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:51.211 28701 28701 D UPDATE SESSION: source = appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:51.213 28701 28701 D UPDATED LAST N SESSION : source = appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:51.609 28701 28753 W GCM     : GCM SDK is deprecated, appteam.nith.hillffair should update to use FCM
+07-31 14:19:51.627  3593  5950 D GCM     : GcmService start Intent { act=com.google.android.c2dm.intent.REGISTER pkg=com.google.android.gms cmp=com.google.android.gms/.gcm.GcmService (has extras) } com.google.android.c2dm.intent.REGISTER
+07-31 14:19:51.853 28701 28753 E OneSignal: Error Getting GCM Token
+07-31 14:19:51.853 28701 28753 E OneSignal: java.io.IOException: INVALID_SENDER
+07-31 14:19:51.853 28701 28753 E OneSignal: 	at com.google.android.gms.gcm.GoogleCloudMessaging.zzd(Unknown Source)
+07-31 14:19:51.853 28701 28753 E OneSignal: 	at com.google.android.gms.gcm.GoogleCloudMessaging.register(Unknown Source)
+07-31 14:19:51.853 28701 28753 E OneSignal: 	at com.onesignal.PushRegistratorGCM.getToken(PushRegistratorGCM.java:42)
+07-31 14:19:51.853 28701 28753 E OneSignal: 	at com.onesignal.PushRegistratorAbstractGoogle.attemptRegistration(PushRegistratorAbstractGoogle.java:97)
+07-31 14:19:51.853 28701 28753 E OneSignal: 	at com.onesignal.PushRegistratorAbstractGoogle.access$100(PushRegistratorAbstractGoogle.java:37)
+07-31 14:19:51.853 28701 28753 E OneSignal: 	at com.onesignal.PushRegistratorAbstractGoogle$1.run(PushRegistratorAbstractGoogle.java:84)
+07-31 14:19:51.853 28701 28753 E OneSignal: 	at java.lang.Thread.run(Thread.java:818)
+07-31 14:19:51.881 28701 28757 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.onesignal.OneSignalChromeTab$OneSignalCustomTabsServiceConnection>
+07-31 14:19:51.881 28701 28757 I art     : Rejecting re-init on previously-failed class java.lang.Class<com.onesignal.OneSignalChromeTab$OneSignalCustomTabsServiceConnection>
+07-31 14:19:52.473   917  5087 I ActivityManager: START u0 {cmp=appteam.nith.hillffair/.activities.WelcomeActivity} from uid 10135 on display 0
+07-31 14:19:52.558 28701 28701 D LARDataUpdate: node appteam.nith.hillffair.activities.WelcomeActivity added to nodelist
+07-31 14:19:52.558 28701 28701 D LARDataUpdate:  Pagerank: 0.25 HITS-Authority: 1.0 HITS-Hub: 1.0 SALSA-Authority: 1.0 SALSA-Hub: 1.0
+07-31 14:19:52.558 28701 28701 W ACTNODE : CREATING, NOT IN DB
+07-31 14:19:52.558 28701 28701 D LARDataCalculatedUpdate: appteam.nith.hillffair.activities.WelcomeActivity Pagerank: 0.25 HITS-Authority: 1.0 HITS-Hub: 1.0 SALSA-Authority: 1.0 SALSA-Hub: 1.0
+07-31 14:19:52.558 28701 28701 I PREF_LIB: loading data for appteam.nith.hillffair.activities.WelcomeActivity
+07-31 14:19:52.559 28701 28701 I PREF_LIB: loading extras for appteam.nith.hillffair.activities.WelcomeActivity
+07-31 14:19:52.559 28701 28701 W SHOULD_PREFETCH: true
+07-31 14:19:52.559 28701 28701 E STATS   : Number of requests not prefetched: 0
+07-31 14:19:52.560 28701 28701 E STATS   : Number of requests prefetched: 0
+07-31 14:19:52.560 28701 28701 E STATS   : Time saved until now: 0.0
+07-31 14:19:52.566 28701 28701 D UPDATED LAST N SESSION : source = appteam.nith.hillffair.activities.WelcomeActivity
+07-31 14:19:52.567 28701 28701 D UPDATE SESSION: source = appteam.nith.hillffair.activities.WelcomeActivity
+07-31 14:19:52.567 28701 28701 D PREFSTRAT2: appteam.nith.hillffair.activities.WelcomeActivity
+07-31 14:19:52.569 28701 28724 I pref-lib::updActMap: appteam.nith.hillffair.activities.SplashActivity: 1
+07-31 14:19:52.569 28701 28724 I pref-lib::updActMap: appteam.nith.hillffair.activities.WelcomeActivity: 2
+07-31 14:19:52.570 28701 28724 I PREFLIB : {appteam.nith.hillffair.activities.WelcomeActivity=2, appteam.nith.hillffair.activities.SplashActivity=1}
+07-31 14:19:52.922   917   935 I ActivityManager: Displayed appteam.nith.hillffair/.activities.WelcomeActivity: +429ms
+07-31 14:19:52.926  3396  3396 I Keyboard.Facilitator: onFinishInput()
+07-31 14:19:52.926 28701 28701 D UPDATED LAST N SESSION : source = appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:52.926 28701 28701 D UPDATE SESSION: source = appteam.nith.hillffair.activities.SplashActivity
+07-31 14:19:52.926 28701 28701 D UPDATE SESSION: source = appteam.nith.hillffair.activities.WelcomeActivity
+07-31 14:19:52.926 28701 28701 D UPDATED LAST N SESSION : source = appteam.nith.hillffair.activities.WelcomeActivity
+07-31 14:19:53.191   917  2992 D ConnectivityService: updateNetworkScore for NetworkAgentInfo [WIFI () - 103] to 60
+07-31 14:19:53.192   917   930 W ProcessCpuTracker: Skipping unknown process pid 28772
+07-31 14:19:55.920   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86715711, fe80::3ad8:2fff:fe25:f08b, [38D82F25F08B], RTM_NEWNEIGH, NUD_PROBE}
+07-31 14:19:55.971   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86715762, 192.168.2.254, [38D82F25F08B], RTM_NEWNEIGH, NUD_REACHABLE}
+07-31 14:19:56.222   917  2992 D ConnectivityService: updateNetworkScore for NetworkAgentInfo [WIFI () - 103] to 56
+07-31 14:19:58.762 28805 28805 W atrace  : type=1400 audit(0.0:757): avc: denied { call } for scontext=u:r:shell:s0 tcontext=u:r:ims:s0 tclass=binder permissive=0
+07-31 14:19:58.762 28805 28805 W atrace  : type=1400 audit(0.0:758): avc: denied { call } for scontext=u:r:shell:s0 tcontext=u:r:fingerprintd:s0 tclass=binder permissive=0
+07-31 14:19:58.777   380   380 E SELinux : avc:  denied  { find } for service=android.service.gatekeeper.IGateKeeperService scontext=u:r:shell:s0 tcontext=u:object_r:gatekeeper_service:s0 tclass=service_manager
+07-31 14:20:05.301   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:20:08.343   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:20:09.786  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [010000000404000011000000514f454d484f4f4bef0308000100000003]
+07-31 14:20:09.787  5024  5038 D QcrilMsgTunnelSocket: Rcvd UNSOL response with 28 bytes data for SUB0
+07-31 14:20:09.787  5024  5038 D QcrilMsgTunnelSocket: Response ID 525295 is not served in this process.
+07-31 14:20:09.787  5024  5038 D QcrilMsgTunnelSocket: To broadcast an Intent via the notifier to external apps
+07-31 14:20:09.788  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 0
+07-31 14:20:09.788  5024  5024 D QcrilMsgTunnelIfaceManager: Broadcasting intent ACTION_UNSOL_RESPONSE_OEM_HOOK_RAW
+07-31 14:20:09.790  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [01000000040400001c000000514f454d484f4f4b132009000c0000000500000057000000c30b0000]
+07-31 14:20:09.791  5024  5038 D QcrilMsgTunnelSocket: Rcvd UNSOL response with 36 bytes data for SUB0
+07-31 14:20:09.791  5024  5038 D QcrilMsgTunnelSocket: RF_Band_Info recv 
+07-31 14:20:09.791  5024  5038 D QcrilMsgTunnelSocket: Broadcaseting RadioInfo : 5ActiveBand : 87ActiveChannel : 3011
+07-31 14:20:09.791  5024  5038 D QcrilMsgTunnelSocket: Broadcasting intent broadcastRfBandInfo
+07-31 14:20:09.793  4988  4988 D QC_RIL_OEM_HOOK: Received Broadcast Intent ACTION_UNSOL_RESPONSE_OEM_HOOK_RAW
+07-31 14:20:09.793  4988  4988 D QC_RIL_OEM_HOOK: Oem ID in QCRILHOOK UNSOL RESP is QOEMHOOK
+07-31 14:20:09.796  4988  5037 E SarMIPIManager: handleMIPI:not match,use the default MIPI:454
+07-31 14:20:09.796  4988  5037 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq: clkrate : 908000000
+07-31 14:20:09.797  4988  5037 V QC_RIL_OEM_HOOK: sendRilOemHookMsgAsync: Outgoing Data is 514f454d484f4f4b142009000400000000fb1e36
+07-31 14:20:09.798  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 3
+07-31 14:20:09.798  5024  5024 D QcrilMsgTunnelSocket: [1172] > OEM_HOOK_RAW[514f454d484f4f4b142009000400000000fb1e36]
+07-31 14:20:09.802  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [000000009404000000000000ffffffff]
+07-31 14:20:09.803  5024  5038 D QcrilMsgTunnelSocket: Rcvd SOLICITED response with 12 bytes data for SUB0
+07-31 14:20:09.803  5024  5038 D QcrilMsgTunnelSocket: [1172] < OEM_HOOK_RAW [null]
+07-31 14:20:09.803  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 4
+07-31 14:20:09.804  4988  5006 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq DONE!
+07-31 14:20:11.376   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:20:11.540   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86731331, fe80::3ad8:2fff:fe25:f08b, [38D82F25F08B], RTM_NEWNEIGH, NUD_STALE}
+07-31 14:20:11.869 28147 28147 I Atfwd_Sendcmd: AtCmdFwd service not ready - Exhausted retry attempts - :6
+07-31 14:20:11.870 28147 28147 I Atfwd_Daemon: result : -1 	 ,Init step :2 	 ,qmiErrorCode: 0
+07-31 14:20:13.360   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86733151, 192.168.2.254, [38D82F25F08B], RTM_NEWNEIGH, NUD_STALE}
+07-31 14:20:14.417   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:20:23.555   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:20:23.768  3696  5635 I ClearcutLoggerApiImpl: disconnect managed GoogleApiClient
+07-31 14:20:24.143   917   937 I PowerManagerService: Going to sleep due to screen timeout (uid 1000)...
+07-31 14:20:24.152  3396  3396 I Keyboard.Facilitator: onFinishInput()
+07-31 14:20:24.760   917   937 I sensors : batch
+07-31 14:20:24.760   917   937 V KeyguardServiceDelegate: onScreenTurnedOff()
+07-31 14:20:24.761   917   937 I sensors : activate
+07-31 14:20:24.763   381   381 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7fae343c00
+07-31 14:20:24.763   381   381 D qdhwcomposer: hwc_setPowerMode: Setting mode 0 on display: 0
+07-31 14:20:24.764   917   935 I DisplayManagerService: Display device changed state: "Built-in Screen", OFF
+07-31 14:20:24.772   917  2857 I hubconnection: sensorhub said: 'batch 31 flags:0, sampling_rate_Hz:15.00, max_report_latency_us:0'
+07-31 14:20:24.774   917  2857 I hubconnection: sensorhub said: 'activate 7 enable:0'
+07-31 14:20:24.850   917   926 I art     : Background partial concurrent mark sweep GC freed 21603(1449KB) AllocSpace objects, 17(372KB) LOS objects, 31% free, 34MB/50MB, paused 662us total 126.756ms
+07-31 14:20:25.068   381   480 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+07-31 14:20:25.069   381   381 D qdhwcomposer: hwc_setPowerMode: Done setting mode 0 on display 0
+07-31 14:20:25.070   917  3059 D SurfaceControl: Excessive delay in setPowerMode(): 307ms
+07-31 14:20:25.073   917   937 I DreamManagerService: Entering dreamland.
+07-31 14:20:25.073   917   937 I PowerManagerService: Dozing...
+07-31 14:20:25.074   917   932 I DreamController: Starting dream: name=ComponentInfo{com.android.systemui/com.android.systemui.doze.DozeService}, isTest=false, canDoze=true, userId=0
+07-31 14:20:25.106   917  3132 I sensors : batch
+07-31 14:20:25.106   917  3132 I sensors : activate
+07-31 14:20:25.112   917   917 I sensors : activate
+07-31 14:20:25.112   513  3225 D audio_hw_primary: adev_set_parameters: enter: screen_state=off
+07-31 14:20:25.113   917  2857 I hubconnection: sensorhub said: 'batch 21 flags:0, sampling_rate_Hz:1000.00, max_report_latency_us:0'
+07-31 14:20:25.115   917  2857 I hubconnection: sensorhub said: 'activate 21 enable:1'
+07-31 14:20:25.119   917  2857 I hubconnection: sensorhub said: 'activate 31 enable:0'
+07-31 14:20:25.127   917  2990 E native  : do suspend true
+07-31 14:20:25.157  3509  4581 D ScreenStateRecorder : ScreenStateRecorderHandler, handleMessage msg.what = 2
+07-31 14:20:25.157  3509  4581 D         : oem_qmi_lib:come into oem_qmi_common_stream_from_modem_len --->modem 
+07-31 14:20:25.157  3509  4581 D         : oem_qmi_lib:oem_qmi_cmd: Send to server  passed!!
+07-31 14:20:25.157   526  1144 D         : oem-qmi: Connection accepted
+07-31 14:20:25.158   526  1144 D         : oem-qmi: Waiting to accept connection
+07-31 14:20:25.162  3509  4581 D         : oem_qmi_lib:output 0
+07-31 14:20:25.162  3509  4581 D         : oem_qmi_lib:rapi_event_type=10057, qmi_ret=0, return_status=1. 
+07-31 14:20:26.872 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:27.873 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:28.875 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:29.204  3091  3091 D PhoneStatusBar: disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock search quick_settings >
+07-31 14:20:29.294  3091  3091 D PhoneStatusBar: disable: < expand ICONS alerts SYSTEM_INFO back HOME* RECENT* clock SEARCH* quick_settings >
+07-31 14:20:29.315  3091  3091 W PathParser: Points are too far apart 4.030360828967057
+07-31 14:20:29.316  3091  3091 W PathParser: Points are too far apart 4.030360538880159
+07-31 14:20:29.877 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:30.879 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:31.881 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 1
+07-31 14:20:36.883 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:37.885 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:38.887 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:39.890 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:40.892 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:41.386   917  2971 I PowerManagerService: Waking up from dozing (uid 1000)...
+07-31 14:20:41.387   917   917 V KeyguardServiceDelegate: onStartedWakingUp()
+07-31 14:20:41.402 28846 28846 W mdss_fb0: type=1400 audit(0.0:759): avc: granted { setsched } for scontext=u:r:kernel:s0 tcontext=u:r:kernel:s0 tclass=process
+07-31 14:20:41.406   917   937 I DisplayPowerController: Blocking screen on until initial contents have been drawn.
+07-31 14:20:41.407   917   937 V KeyguardServiceDelegate: onScreenTurnedOn(showListener = com.android.server.policy.PhoneWindowManager$2@32d97c)
+07-31 14:20:41.407   917   917 I sensors : batch
+07-31 14:20:41.408   917   917 I sensors : activate
+07-31 14:20:41.408   513  3227 D audio_hw_primary: adev_set_parameters: enter: screen_state=on
+07-31 14:20:41.408   917   937 I sensors : batch
+07-31 14:20:41.409   917   937 I sensors : activate
+07-31 14:20:41.409   917   935 I DisplayManagerService: Display device changed state: "Built-in Screen", ON
+07-31 14:20:41.412   917  5087 V KeyguardServiceDelegate: **** SHOWN CALLED ****
+07-31 14:20:41.412   381   381 D SurfaceFlinger: Set power mode=2, type=0 flinger=0x7fae343c00
+07-31 14:20:41.412   381   381 D qdhwcomposer: hwc_setPowerMode: Setting mode 2 on display: 0
+07-31 14:20:41.418   917  2857 I hubconnection: sensorhub said: 'batch 31 flags:0, sampling_rate_Hz:15.00, max_report_latency_us:0'
+07-31 14:20:41.420   917  2857 I hubconnection: sensorhub said: 'activate 31 enable:1'
+07-31 14:20:41.422   917  2857 I hubconnection: sensorhub said: 'batch 7 flags:0, sampling_rate_Hz:4.00, max_report_latency_us:0'
+07-31 14:20:41.424   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:20:41.424   917  2857 I hubconnection: sensorhub said: 'activate 7 enable:1'
+07-31 14:20:41.425   917  2990 E native  : do suspend false
+07-31 14:20:41.450   917  2990 D WifiConfigStore: No blacklist allowed without epno enabled
+07-31 14:20:41.450  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_SET_TECH_CFG_EVT; status=0x0
+07-31 14:20:41.450  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_SET_PROTO_CFG_EVT; status=0x0
+07-31 14:20:41.450  3492  5631 D BrcmNfcJni: RoutingManager::commitRouting
+07-31 14:20:41.451  3492  3694 D BrcmNfcJni: RoutingManager::nfaEeCallback: NFA_EE_UPDATED_EVT
+07-31 14:20:41.461  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [01000000040400001c000000514f454d484f4f4b132009000c0000000500000057000000c30b0000]
+07-31 14:20:41.462  5024  5038 D QcrilMsgTunnelSocket: Rcvd UNSOL response with 36 bytes data for SUB0
+07-31 14:20:41.462  5024  5038 D QcrilMsgTunnelSocket: RF_Band_Info recv 
+07-31 14:20:41.462  5024  5038 D QcrilMsgTunnelSocket: Broadcaseting RadioInfo : 5ActiveBand : 87ActiveChannel : 3011
+07-31 14:20:41.462  5024  5038 D QcrilMsgTunnelSocket: Broadcasting intent broadcastRfBandInfo
+07-31 14:20:41.465  4988  5037 E SarMIPIManager: handleMIPI:not match,use the default MIPI:454
+07-31 14:20:41.465  4988  5037 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq: clkrate : 908000000
+07-31 14:20:41.466  4988  5037 V QC_RIL_OEM_HOOK: sendRilOemHookMsgAsync: Outgoing Data is 514f454d484f4f4b142009000400000000fb1e36
+07-31 14:20:41.466  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 3
+07-31 14:20:41.466  5024  5024 D QcrilMsgTunnelSocket: [1173] > OEM_HOOK_RAW[514f454d484f4f4b142009000400000000fb1e36]
+07-31 14:20:41.466  3509  4581 D ScreenStateRecorder : ScreenStateRecorderHandler, handleMessage msg.what = 1
+07-31 14:20:41.467  3509  4581 D         : oem_qmi_lib:come into oem_qmi_common_stream_from_modem_len --->modem 
+07-31 14:20:41.467  3509  4581 D         : oem_qmi_lib:oem_qmi_cmd: Send to server  passed!!
+07-31 14:20:41.467   526  1144 D         : oem-qmi: Connection accepted
+07-31 14:20:41.467   526  1144 D         : oem-qmi: Waiting to accept connection
+07-31 14:20:41.468  5024  5038 D QcrilMsgTunnelSocket: readRilMessage: Buffer = [B@9e50652 HexData = [000000009504000000000000ffffffff]
+07-31 14:20:41.469  5024  5038 D QcrilMsgTunnelSocket: Rcvd SOLICITED response with 12 bytes data for SUB0
+07-31 14:20:41.470  5024  5038 D QcrilMsgTunnelSocket: [1173] < OEM_HOOK_RAW [null]
+07-31 14:20:41.470  5024  5024 D QcrilMsgTunnelIfaceManager: handleMessage what = 4
+07-31 14:20:41.470  3509  4581 D         : oem_qmi_lib:output 0
+07-31 14:20:41.471  3509  4581 D         : oem_qmi_lib:rapi_event_type=10057, qmi_ret=0, return_status=1. 
+07-31 14:20:41.471  4988  5006 D QC_RIL_OEM_HOOK: qcRilSetMipiFreq DONE!
+07-31 14:20:41.493   917   931 I sensors : flush
+07-31 14:20:41.494   917   937 I DisplayPowerController: Unblocked screen on after 88 ms
+07-31 14:20:41.498   917   937 V KeyguardServiceDelegate: onScreenTurnedOn()
+07-31 14:20:41.498   917   937 I DreamManagerService: Gently waking up from dream.
+07-31 14:20:41.499   917  5087 I DreamManagerService: Leaving dreamland.
+07-31 14:20:41.500   917   932 I DreamController: Stopping dream: name=ComponentInfo{com.android.systemui/com.android.systemui.doze.DozeService}, isTest=false, canDoze=true, userId=0
+07-31 14:20:41.500   917  2857 I hubconnection: sensorhub said: 'flush 31'
+07-31 14:20:41.500   917  2857 I hubconnection: saw sensor 31 flushed
+07-31 14:20:41.501   917   927 I sensors : activate
+07-31 14:20:41.507   917  2857 I hubconnection: sensorhub said: 'activate 21 enable:0'
+07-31 14:20:41.521  3091  3091 W PathParser: Points are too far apart 4.030360828967057
+07-31 14:20:41.522  3091  3091 W PathParser: Points are too far apart 4.030360538880159
+07-31 14:20:41.582 28877 28877 W irq/504-synapti: type=1400 audit(0.0:760): avc: granted { setsched } for scontext=u:r:kernel:s0 tcontext=u:r:kernel:s0 tclass=process
+07-31 14:20:41.590   381   480 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 1
+07-31 14:20:41.593   381   381 D qdhwcomposer: hwc_setPowerMode: Done setting mode 2 on display 0
+07-31 14:20:41.593   917  3059 D SurfaceControl: Excessive delay in setPowerMode(): 184ms
+07-31 14:20:41.893 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 2
+07-31 14:20:44.469   917  2992 D ConnectivityService: notifyType CAP_CHANGED for NetworkAgentInfo [WIFI () - 103]
+07-31 14:20:44.478   917  2992 D ConnectivityService: updateNetworkScore for NetworkAgentInfo [WIFI () - 103] to 60
+07-31 14:20:47.518   917  2992 D ConnectivityService: updateNetworkScore for NetworkAgentInfo [WIFI () - 103] to 56
+07-31 14:20:51.378   917   937 I PowerManagerService: Going to sleep due to screen timeout (uid 1000)...
+07-31 14:20:51.895 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:51.970   917   937 I sensors : batch
+07-31 14:20:51.971   917   937 V KeyguardServiceDelegate: onScreenTurnedOff()
+07-31 14:20:51.971   917   937 I sensors : activate
+07-31 14:20:51.974   381   381 D SurfaceFlinger: Set power mode=0, type=0 flinger=0x7fae343c00
+07-31 14:20:51.974   917   935 I DisplayManagerService: Display device changed state: "Built-in Screen", OFF
+07-31 14:20:51.975   381   381 D qdhwcomposer: hwc_setPowerMode: Setting mode 0 on display: 0
+07-31 14:20:51.978   917  2857 I hubconnection: sensorhub said: 'batch 31 flags:0, sampling_rate_Hz:15.00, max_report_latency_us:0'
+07-31 14:20:51.982   917  2857 I hubconnection: sensorhub said: 'activate 7 enable:0'
+07-31 14:20:52.289   381   480 I qdhwcomposer: handle_blank_event: dpy:0 panel power state: 0
+07-31 14:20:52.293   381   381 D qdhwcomposer: hwc_setPowerMode: Done setting mode 0 on display 0
+07-31 14:20:52.295   917  3059 D SurfaceControl: Excessive delay in setPowerMode(): 321ms
+07-31 14:20:52.300   917   937 I DreamManagerService: Entering dreamland.
+07-31 14:20:52.300   917   937 I PowerManagerService: Dozing...
+07-31 14:20:52.302   917   932 I DreamController: Starting dream: name=ComponentInfo{com.android.systemui/com.android.systemui.doze.DozeService}, isTest=false, canDoze=true, userId=0
+07-31 14:20:52.327   917  3128 I sensors : batch
+07-31 14:20:52.327   917  3128 I sensors : activate
+07-31 14:20:52.335   917  2857 I hubconnection: sensorhub said: 'batch 21 flags:0, sampling_rate_Hz:1000.00, max_report_latency_us:0'
+07-31 14:20:52.337   917  2857 I hubconnection: sensorhub said: 'activate 21 enable:1'
+07-31 14:20:52.344   917   917 I sensors : activate
+07-31 14:20:52.345  3091  3091 D PhoneStatusBar: disable: < expand ICONS alerts SYSTEM_INFO back HOME RECENT clock SEARCH quick_settings >
+07-31 14:20:52.345   513   513 D audio_hw_primary: adev_set_parameters: enter: screen_state=off
+07-31 14:20:52.351   917  2857 I hubconnection: sensorhub said: 'activate 31 enable:0'
+07-31 14:20:52.360   917  2990 E native  : do suspend true
+07-31 14:20:52.408  3509  4581 D ScreenStateRecorder : ScreenStateRecorderHandler, handleMessage msg.what = 2
+07-31 14:20:52.408  3509  4581 D         : oem_qmi_lib:come into oem_qmi_common_stream_from_modem_len --->modem 
+07-31 14:20:52.408  3509  4581 D         : oem_qmi_lib:oem_qmi_cmd: Send to server  passed!!
+07-31 14:20:52.408   526  1144 D         : oem-qmi: Connection accepted
+07-31 14:20:52.408   526  1144 D         : oem-qmi: Waiting to accept connection
+07-31 14:20:52.412  3509  4581 D         : oem_qmi_lib:output 0
+07-31 14:20:52.413  3509  4581 D         : oem_qmi_lib:rapi_event_type=10057, qmi_ret=0, return_status=1. 
+07-31 14:20:52.898 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:53.902 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:54.903 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:55.904 28147 28147 I ServiceManager: Waiting for service AtCmdFwd...
+07-31 14:20:56.905 28147 28147 W Atfwd_Sendcmd: AtCmdFwd service not published, waiting... retryCnt : 3
+07-31 14:21:00.120   917 19295 D NetlinkSocketObserver: NeighborEvent{elapsedMs=86779911, 192.168.2.254, [38D82F25F08B], RTM_NEWNEIGH, NUD_PROBE}
+07-31 14:21:01.921   917  2990 D WifiStateMachine: L2Connected CMD_START_SCAN source -2 410, 411 -> obsolete
+07-31 14:21:02.022 28927 28927 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+07-31 14:21:02.027 28927 28927 D AndroidRuntime: CheckJNI is OFF
+07-31 14:21:02.058 28927 28927 D ICU     : No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+07-31 14:21:02.103 28927 28927 I Radio-JNI: register_android_hardware_Radio DONE
+07-31 14:21:02.120 28927 28927 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+07-31 14:21:02.122   917   927 I ActivityManager: Force stopping appteam.nith.hillffair appid=10135 user=0: from pid 28927
+07-31 14:21:02.122   917   927 I ActivityManager: Killing 28701:appteam.nith.hillffair/u0a135 (adj 0): stop appteam.nith.hillffair
+07-31 14:21:02.182   917   928 I WindowState: WIN DEATH: Window{a1de308 u0 appteam.nith.hillffair/appteam.nith.hillffair.activities.WelcomeActivity}
+07-31 14:21:02.182   917  3128 D GraphicsStats: Buffer count: 8
+07-31 14:21:02.215   917   927 I ActivityManager: Start proc 28936:appteam.nith.hillffair/u0a135 for activity appteam.nith.hillffair/.activities.WelcomeActivity
+07-31 14:21:02.215 28936 28936 I art     : Late-enabling -Xcheck:jni
+07-31 14:21:02.216   917   927 I ActivityManager:   Force finishing activity ActivityRecord{4e6d11c u0 appteam.nith.hillffair/.activities.WelcomeActivity t351}
+07-31 14:21:02.225 28927 28927 D AndroidRuntime: Shutting down VM
+07-31 14:21:02.225   917  3373 W ActivityManager: Spurious death for ProcessRecord{739980 0:appteam.nith.hillffair/u0a135}, curProc for 28701: null
+07-31 14:21:02.252 28936 28936 W System  : ClassLoader referenced unknown path: /data/app/appteam.nith.hillffair-1/lib/arm64
+07-31 14:21:02.268 28936 28936 W OneSignal: GCM Library detected, please upgrade to Firebase FCM library as GCM is deprecated!
+07-31 14:21:03.975 28968 28968 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+07-31 14:21:03.979 28968 28968 D AndroidRuntime: CheckJNI is OFF
+07-31 14:21:04.010 28968 28968 D ICU     : No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+07-31 14:21:04.047 28968 28968 I Radio-JNI: register_android_hardware_Radio DONE
+07-31 14:21:04.065 28968 28968 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+07-31 14:21:04.068 28968 28968 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=600.0, y[0]=1000.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=42968208, downTime=42968208, deviceId=0, source=0x1002 }
+07-31 14:21:04.070 28968 28968 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=600.0, y[0]=1000.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=42968208, downTime=42968208, deviceId=0, source=0x1002 }
+07-31 14:21:04.071 28968 28968 D AndroidRuntime: Shutting down VM

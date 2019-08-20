@@ -1,0 +1,58 @@
+{"type": "touch", "y": 585, "down": 1, "up": 3, "x": 585 }
+{"type": "touch", "y": 1106, "down": 3, "up": 4, "x": 298 }
+{"type": "touch", "y": 697, "down": 5, "up": 6, "x": 657 }
+{"type": "touch", "y": 232, "down": 7, "up": 7.9, "x": 121 }
+{"type": "touch", "y": 1269, "down": 9, "up": 10, "x": 754 }
+{"type": "touch", "y": 2016, "down": 11, "up": 12, "x": 746 }
+{"type": "touch", "y": 232, "down": 7, "up": 7.9, "x": 121 }
+{"type": "drag", "points": [{"x": 268, "y": 1863 }, {"x": 268, "y": 1099 } ], "down": 15, "up": 16 }
+{"type": "touch", "y": 2075, "down": 17, "up": 18, "x": 750 }
+{"type": "touch", "y": 252, "down": 19, "up": 19.9, "x": 121 }
+{"type": "touch", "y": 1181, "down": 21, "up": 22, "x": 1095 }
+{"type": "touch", "y": 1056, "down": 23, "up": 24, "x": 693 }
+{"type": "touch", "y": 180, "down": 25, "up": 25.9, "x": 126 }
+{"type": "touch", "y": 1560, "down": 27, "up": 28, "x": 670 }
+{"type": "drag", "points": [{"x": 891, "y": 2047 }, {"x": 645, "y": 596 } ], "down": 29, "up": 30 }
+{"type": "touch", "y": 180, "down": 31, "up": 32, "x": 126 }
+{"type": "touch", "y": 180, "down": 33, "up": 34, "x": 126 }
+{"type": "touch", "y": 1687, "down": 35, "up": 36, "x": 333 }
+{"type": "drag", "points": [{"x": 758, "y": 2207 }, {"x": 617, "y": 478 } ], "down": 37, "up": 40 }
+{"type": "touch", "y": 180, "down": 41, "up": 42, "x": 126 }
+{"type": "touch", "y": 1724, "down": 43, "up": 44, "x": 1087 }
+{"type": "drag", "points": [{"x": 758, "y": 2207 }, {"x": 617, "y": 478 } ], "down": 45, "up": 49 }
+{"type": "drag", "points": [{"x": 758, "y": 2207 }, {"x": 617, "y": 478 } ], "down": 50, "up": 53 }
+{"type": "drag", "points": [{"x": 758, "y": 2207 }, {"x": 617, "y": 478 } ], "down": 54, "up": 57 }
+{"type": "drag", "points": [{"x": 758, "y": 2207 }, {"x": 617, "y": 478 }], "down": 58, "up": 61 }
+{"type": "touch", "y": 180, "down": 62, "up": 63, "x": 126 }
+{"type": "touch", "y": 2267, "down": 64, "up": 65, "x": 398 }
+{"type": "touch", "y": 180, "down": 67, "up": 68, "x": 126 }
+{"type": "touch", "y": 2263, "down": 70, "up": 71, "x": 1048 }
+{"type": "touch", "y": 618, "down": 73, "up": 74, "x": 328 }
+{"type": "touch", "y": 180, "down": 76, "up": 78, "x": 126 }
+{"type": "touch", "y": 587, "down": 80, "up": 81, "x": 1050 }
+{"type": "touch", "y": 180, "down": 83, "up": 84, "x": 126 }
+{"type": "touch", "y": 1150, "down": 86, "up": 87, "x": 348 }
+{"type": "touch", "y": 180, "down": 89, "up": 90, "x": 126 }
+{"type": "touch", "y": 1147, "down": 92, "up": 93, "x": 126 }
+{"type": "touch", "y": 180, "down": 95, "up": 96, "x": 126 }
+{"type": "touch", "y": 1790, "down": 98, "up": 99, "x": 363 }
+{"type": "touch", "y": 180, "down": 101, "up": 102, "x": 126 }
+{"type": "touch", "y": 1738, "down": 104, "up": 105, "x": 1063 }
+{"type": "touch", "y": 180, "down": 107, "up": 108, "x": 126 }
+{"type": "drag", "points": [{"x": 110, "y": 111 }, {"x": 617, "y": 478 }], "down": 110, "up": 115 }
+{"type": "touch", "y": 1135, "down": 117, "up": 118, "x": 321 }
+{"type": "touch", "y": 180, "down": 120, "up": 121, "x": 126 }
+{"type": "drag", "points": [{"x": 119, "y": 2174 }, {"x": 478, "y": 602 }], "down": 123, "up": 125 }
+{"type": "touch", "y": 2037, "down": 127, "up": 128, "x": 1079 }
+{"type": "touch", "y": 180, "down": 130, "up": 131, "x": 126 }
+{"type": "drag", "points": [{"x": 950, "y": 2260 }, {"x": 299, "y": 450 }], "down": 133, "up": 135 }
+{"type": "drag", "points": [{"x": 950, "y": 2260 }, {"x": 299, "y": 450 }], "down": 137, "up": 139 }
+{"type": "drag", "points": [{"x": 950, "y": 2260 }, {"x": 299, "y": 450 }], "down": 141, "up": 143 }
+{"type": "touch", "y": 2158, "down": 144, "up": 145, "x": 352 }
+{"type": "touch", "y": 180, "down": 147, "up": 148, "x": 126 }
+{"type": "touch", "y": 180, "down": 150, "up": 151, "x": 126 }
+{"type": "drag", "points": [{"x": 945, "y": 2189 }, {"x": 192, "y": 433 }], "down": 153, "up": 154 }
+{"type": "touch", "y": 2126, "down": 156, "up": 157, "x": 385 }
+{"type": "touch", "y": 180, "down": 158, "up": 159, "x": 126 }
+{"type": "drag", "points": [{"x": 945, "y": 2189 }, {"x": 192, "y": 433 }], "down": 161, "up": 163 }
+{"type": "touch", "y": 2104, "down": 165, "up": 166, "x": 1060 }

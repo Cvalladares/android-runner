@@ -1,0 +1,29 @@
+<experiment>
+  <configHash>38b636ae6c25da633e46eb7dd76c68dd</configHash>
+  <outputDir>/home/christian/Desktop/AndroidRunner/android-runner/examples/batterystats/output/2019.07.31_142236/</outputDir>
+  <subjects>
+    <subject>
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <aggregated>1</aggregated>
+    </subject>
+  </subjects>
+  <runsToRun/>
+  <runsDone>
+    <run runId="0">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>huaweinex</device>
+      <path>/home/christian/Desktop/AndroidRunner/android-runner/examples/NAPPA/Scripts/Hillfair/Instrumented/appteam.nith.hillffair.apk</path>
+      <runCount>3</runCount>
+    </run>
+  </runsDone>
+</experiment>
